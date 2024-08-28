@@ -3,3 +3,8 @@
 
 # Arquivo de retorno da execução
 compare.txt
+
+# Compilação do projeto
+build
+dist
+schema_compare_postgres.egg-info
